@@ -22,7 +22,7 @@ This project focuses on building a predictive system using machine learning to f
 
 ---
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 
 ### Missing Values:
 - Missing discount values were filled with `0` (indicating no discount was applied)  
@@ -44,7 +44,7 @@ Used visualizations (histograms, line plots, etc.) to explore:
 
 ---
 
-## 🤖 Model Building
+## Model Building
 
 ### Feature Engineering:
 - Extracted useful features from dates (month, week, holiday indicator), combined with store and economic data  
